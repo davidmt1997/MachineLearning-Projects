@@ -2,4 +2,4 @@
 
 This is part of an Android app, here is the demo:
 
-![alt text](tictactoe.git)
+![](tictactoe.gif)
