@@ -16,6 +16,8 @@ Implementation of the DQN algorithm with double dueling DQN extension in TensorF
 - visualize.py: visualize the DQNs parameters as it plays
 - visualize-replaybuffer: plot the DQNs experiences in a scatterplot
 
+![](dqn_breakout.gif)
+
 ### References:
 https://github.com/fg91/Deep-Q-Learning/blob/master/DQN.ipynb
 https://www.youtube.com/watch?v=5fHngyN8Qhw
