@@ -6,3 +6,4 @@ Methods used:
 - LSTM cells
 - Suppor Vector Regression (SVR)
 - Relative Strengh Index (RSI)
+- Moving Average Convergence/Divergence crossover (MACD)
