@@ -1,3 +1,3 @@
-# Introduction to NLP
+# NLP
 
-Notes I took during a class on NLP
+Different scripts I build while learning about NLP.
