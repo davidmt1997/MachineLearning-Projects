@@ -2,4 +2,4 @@
 
 Learning about Generative Adversarial Networks today. 
 
-![] (dcgan.gif)
+![](dcgan.gif)
