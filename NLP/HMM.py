@@ -1,6 +1,6 @@
 import random
 
-
+# Implementation by scratch of a Markov Hidden Model (bigram) for morphosyntactic tagging using Viterbi's algorithm
 class HMM:
     def __init__(self, corpus):
         self.corpus = corpus
